@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-Registration is required and will be available just below, starting at 5:00pm on Monday, 6 August 2018. Make sure to read all details below before registering and to choose appropriately between UW-Madison’s [Data Carpentry](https://uw-madison-aci.github.io/2019-01-16-uwmadison-dc/) and 
+Registration is required and will be available just below, starting at 5:00pm on Monday, 10 December 2018. Make sure to read all details below before registering and to choose appropriately between UW-Madison’s [Data Carpentry](https://uw-madison-aci.github.io/2019-01-16-uwmadison-dc/) and 
 [Software Carpentry](https://uw-madison-aci.github.io/2019-01-14-uwmadison-swc/) workshops.
 
 <h2 id="general">General Information</h2>
