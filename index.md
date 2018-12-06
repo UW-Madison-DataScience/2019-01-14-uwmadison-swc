@@ -296,6 +296,9 @@ Registration is required and will be available just below, starting at 5:00pm on
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  If you need help with the setup, please come to <a href = "http://datascience.wisc.edu"> Data Science
+	Hub </a> office hours on January 9th, 2019 (9:30-11:30) or January 10th, 2019 (3-5) in Hub 
+	Central of the Discovery Building.
 </p>
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
